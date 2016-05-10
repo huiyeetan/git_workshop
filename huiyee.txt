@@ -23,3 +23,12 @@ git diff
 
 git clone <link>
 	--> copy repository from link
+	
+git push origin master
+	--> push files to remote repository
+	
+git pull
+	--> pull files from remote repository. Check if its the latest copy
+	
+Create new pull request
+	--> used to merge files with someone else in the repository
