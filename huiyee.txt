@@ -1,0 +1,25 @@
+git init
+	Initialises new repository
+
+git add -A 
+	--> move code to staging area
+
+git commit -m "purpose of commit"  
+	--> move code from staging area to repository, creates a new version or snapshot of project
+	
+git log
+	--> displays log
+
+git log --oneline
+	--> shows log in one line summary
+	
+git status
+	--> shows what files were changed/edited
+	if green, files in staging area
+	if red, files not in staging area
+	
+git diff
+	--> shows what lines were added or changed
+
+git clone <link>
+	--> copy repository from link
